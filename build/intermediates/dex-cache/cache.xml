@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_a91eac1ad9182e1fc238502d8c6b322848c43940.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d77e5d61eaca2ed7cc39376323676cdd5a207247">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ff77819dce6af6cf18c4de186ca93ca4ca76b0c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_99bb6fb4f9840e50f451833cd685eea961756b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_63fcda8649a07ba4853309c2112876144b5b7408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_97dde78450ef13d8e6bcfd03f750e9a4db352d58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_29d6a3842d0c21f016f5e198ab24db15624b9c33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_91c89e4c3df1ca290cf2107eaae511bffe1ce3b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2bf013edcefb04ca6313a490e8b367888ef2eb80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_839bd5d61226bf1d1e83af67f071685229ad077e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_49041446008d5ff15d131b657273f8df3bf7d1ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c114b1d4ff11ea98dac390146f1c3119ba8fecc9">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\instant-run_d2489c0badca7f130fff63ad6b2492d309590856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_ac053be6b11b01500d3cfcdab2b86d1ceb7d5974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_ba33fb8974f1068e66ca3738c89b52a855c621ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_8e2684ddd6bec1a37e6214288a0dec7f985c3f31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_0fefd24badfd3c23302d8b42dee99dfb7cbf139e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_94dac1080b5761a2c44abedf6c01ecae181e3571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_05e6d76712e7865ac38031485be268e13484405e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_4dabd708acde4159ab6d1f92df5ba44388361683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoginTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_d3e05f5aad2a5630d14e378eca51dbcbccf4642c.jar" />
+    </item>
+
+</items>
